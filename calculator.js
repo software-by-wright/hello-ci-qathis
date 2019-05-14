@@ -1,3 +1,5 @@
 module.exports = {
-  add() {}
+  add(a, b) {
+    return a+b
+  }
 };
